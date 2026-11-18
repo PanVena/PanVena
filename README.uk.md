@@ -20,6 +20,10 @@
 - **[CD Auto Runner](https://github.com/PanVena/cd-auto-runner)** —
   запускає обраний програвач для аудіо-CD, копіює диски до музичної
   бібліотеки й допомагає впорядкувати альбоми. Має й вбудований програвач.
+- **[gdmount](https://github.com/PanVena/gdmount)** —
+  монтує Google Drive у Linux через rclone. Створює системну службу
+  користувача, підтримує ручне й автоматичне оновлення метаданих,
+  зміну акаунта та KDE Plasma.
 - **[GPU Tinker](https://github.com/PanVena/gpu_tinker)** —
   показує стан відеокарт, пам’ять і процеси; звільняє вибрану карту для
   обчислень; вмикає й вимикає монітори. KDE Plasma, Wayland.

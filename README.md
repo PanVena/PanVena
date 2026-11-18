@@ -20,6 +20,10 @@ I also have FIGlet fonts and an ASCII art editor.
 - **[CD Auto Runner](https://github.com/PanVena/cd-auto-runner)** —
   launches your chosen player for audio CDs, copies discs to your music
   library and helps organize albums. Also has a built-in player.
+- **[gdmount](https://github.com/PanVena/gdmount)** —
+  mounts Google Drive on Linux with rclone. Creates a user systemd service,
+  supports manual and automatic metadata refresh, account switching and KDE
+  Plasma.
 - **[GPU Tinker](https://github.com/PanVena/gpu_tinker)** —
   shows GPU status, memory and processes; frees a chosen card for
   compute; turns monitors on and off. KDE Plasma, Wayland.
