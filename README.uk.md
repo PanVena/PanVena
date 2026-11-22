@@ -17,6 +17,8 @@
 
 ## Linux і KDE
 
+### Застосунки й утиліти
+
 - **[CD Auto Runner](https://github.com/PanVena/cd-auto-runner)** —
   запускає обраний програвач для аудіо-CD, копіює диски до музичної
   бібліотеки й допомагає впорядкувати альбоми. Має й вбудований програвач.
@@ -27,9 +29,16 @@
 - **[GPU Tinker](https://github.com/PanVena/gpu_tinker)** —
   показує стан відеокарт, пам’ять і процеси; звільняє вибрану карту для
   обчислень; вмикає й вимикає монітори. KDE Plasma, Wayland.
+
+### Розширення KWin і Plasma
+
 - **[KWin Meta Scroll Switcher](https://github.com/PanVena/kwin-meta-scroll-switcher-fedora)** —
   перемикає віртуальні стільниці коліщатком із затиснутою Meta. Сам
   перебудовується після оновлень KWin. Fedora.
+- **[Пропорційний перехід курсора для KWin](https://github.com/PanVena/kwin-relative-pointer-fedora)** —
+  ефект Plasma Wayland, що зберігає відносну висоту курсора під час переходу
+  між екранами, розташованими поруч, або відносну позицію по горизонталі,
+  коли екрани розташовані один над одним.
 - **[OnlyText Date Ukr](https://github.com/PanVena/OnlyText-Date-Ukr)** —
   віджет Plasma 6: день тижня, число й місяць словами, мовою системи.
 

@@ -17,6 +17,8 @@ I also have FIGlet fonts and an ASCII art editor.
 
 ## Linux & KDE
 
+### Applications and utilities
+
 - **[CD Auto Runner](https://github.com/PanVena/cd-auto-runner)** —
   launches your chosen player for audio CDs, copies discs to your music
   library and helps organize albums. Also has a built-in player.
@@ -27,9 +29,15 @@ I also have FIGlet fonts and an ASCII art editor.
 - **[GPU Tinker](https://github.com/PanVena/gpu_tinker)** —
   shows GPU status, memory and processes; frees a chosen card for
   compute; turns monitors on and off. KDE Plasma, Wayland.
+
+### KWin and Plasma extensions
+
 - **[KWin Meta Scroll Switcher](https://github.com/PanVena/kwin-meta-scroll-switcher-fedora)** —
   switches virtual desktops with the mouse wheel while Meta is held. Rebuilds
   itself after KWin updates. Fedora.
+- **[Proportional cursor crossing for KWin](https://github.com/PanVena/kwin-relative-pointer-fedora)** —
+  Plasma Wayland effect that preserves the cursor’s relative height when crossing
+  between side-by-side displays, or its relative horizontal position between stacked displays.
 - **[OnlyText Date Ukr](https://github.com/PanVena/OnlyText-Date-Ukr)** —
   Plasma 6 widget that spells out the weekday, day and month in the system
   language, Ukrainian included.
