@@ -30,6 +30,11 @@
   показує стан відеокарт, пам’ять і процеси; звільняє вибрану карту для
   обчислень; вмикає й вимикає монітори. KDE Plasma, Wayland.
 
+### Інструменти ядра й драйверів
+
+- **[NVIDIA KMod Auto](https://github.com/PanVena/nvidia-kmod-auto)** —
+  автоматично перебудовує модулі ядра NVIDIA після змін ядра або драйвера.
+
 ### Розширення KWin і Plasma
 
 - **[KWin Meta Scroll Switcher](https://github.com/PanVena/kwin-meta-scroll-switcher-fedora)** —

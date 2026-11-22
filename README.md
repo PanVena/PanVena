@@ -30,6 +30,12 @@ I also have FIGlet fonts and an ASCII art editor.
   shows GPU status, memory and processes; frees a chosen card for
   compute; turns monitors on and off. KDE Plasma, Wayland.
 
+### Kernel and driver tooling
+
+- **[NVIDIA KMod Auto](https://github.com/PanVena/nvidia-kmod-auto)** —
+  automatically rebuilds NVIDIA kernel modules when the kernel or driver
+  changes.
+
 ### KWin and Plasma extensions
 
 - **[KWin Meta Scroll Switcher](https://github.com/PanVena/kwin-meta-scroll-switcher-fedora)** —
