@@ -33,8 +33,7 @@ I also have FIGlet fonts and an ASCII art editor.
 ### Kernel and driver tooling
 
 - **[NVIDIA KMod Auto](https://github.com/PanVena/nvidia-kmod-auto)** —
-  automatically rebuilds NVIDIA kernel modules when the kernel or driver
-  changes.
+  builds NVIDIA kernel modules for vanilla Fedora kernels.
 
 ### KWin and Plasma extensions
 
